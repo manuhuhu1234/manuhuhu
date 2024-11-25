@@ -39,8 +39,8 @@
             <p >XI Tel 12</p>
             <img src="saya.jpg" class="img-fluid rounded-circle mb-4">
             <p>Selamat datang di CV saya! Saya seorang pelajar yang memiliki ketertarikan di bidang teknologi dan desain web. Berikut adalah beberapa informasi mengenai diri saya.</p>
-
-            <iframe width="560" height="315" src="https://www.youtube.com/watch?v=GqjtzXJWTkU"></iframe>
+            
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/GqjtzXJWTkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-    picture" allowfullscreen></iframe>
         </div>
     </section>
 
